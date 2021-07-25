@@ -10,6 +10,9 @@
 * CPU Scheduling
 * ...
 
+# Concepts
+* ...
+
 # Images
 * Some images in my thesis. <br>
 ![image](https://user-images.githubusercontent.com/67073582/126887716-69cc66a5-b055-4c4a-8e2c-47ddef52ea54.png) <br>
