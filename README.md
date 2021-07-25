@@ -3,12 +3,15 @@
 * This research is a secret, maybe I would update someday.
 
 # Prior Knowledge
-* Kernel Space / User Space 
-* Process
-* Thread
-* Multi-Thread
-* CPU Scheduling
-* ...
+* Operating System Concepts
+  * Kernel Space / User Space 
+  * Process
+  * Thread
+  * Multi-Thread
+  * CPU Scheduling
+* Data Structure
+  * Linked list
+  * ...
 
 # Concepts
 * ...
