@@ -1,8 +1,8 @@
 # DDK_application_of_thesis_of_master_degree
 * This research is a secret, maybe I would update someday.
 
-# Thesis Title
-* **Schedule Algorithm for Real-Time Tasks with  Multiple Parallelization Options on Multicore Systems**
+# Thesis
+![image](https://user-images.githubusercontent.com/67073582/126892745-fde74986-ce6f-40c2-9160-990ff5423a13.png) <br>
 
 # Prior Knowledge
 * Operating System Concepts
