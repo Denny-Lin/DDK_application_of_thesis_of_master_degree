@@ -29,4 +29,4 @@
 
 
 #References
-* Other thesis
+* Other theses
